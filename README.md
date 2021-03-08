@@ -13,6 +13,8 @@ Here are the image credits that I'm aware of:
 - [017.jpg](017.jpg): From [WallpaperUp](https://www.wallpaperup.com/469287/MONKEY_ISLAND_adventure_animation_fantasy.html)
 - [018.jpg](018.jpg): From [GetWallpapers](http://getwallpapers.com/collection/nuka-cola-girl-wallpaper)
 - [019.jpg](019.jpg): From [GetWallpapers](http://getwallpapers.com/collection/nuka-cola-girl-wallpaper)
+- [020.jpg](020.jpg): [Thomas Moran](https://en.wikipedia.org/wiki/Thomas_Moran) - [Fiercely the red sun descending/Burned his way along the heavens](https://ncartmuseum.org/art/detail/fiercely_the_red_sun_descending_burned_his_way_along_the_heavens)
+- [021.jpg](021.jpg): [J. M. W. Turner](https://en.wikipedia.org/wiki/J._M._W._Turner) - [Palazzo ducale](https://commons.wikimedia.org/wiki/File:Joseph_Mallord_William_Turner_094.jpg)
 
 If you find an image hosted in this repository that is yours and of limited use,
 please let me know and I will remove it.
