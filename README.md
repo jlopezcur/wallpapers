@@ -19,6 +19,7 @@ Here are the image credits that I'm aware of:
 - [021.jpg](021.jpg): [J. M. W. Turner](https://en.wikipedia.org/wiki/J._M._W._Turner) - [Palazzo ducale](https://commons.wikimedia.org/wiki/File:Joseph_Mallord_William_Turner_094.jpg)
 - [023.jpg](023.jpg): [Mojave Desert]()
 - [024.jpg](024.jpg): []()
+- [025.jpg](025.jpg): [wallhaven](https://wallhaven.cc/w/z87ppg)
 
 ## Collage
 
