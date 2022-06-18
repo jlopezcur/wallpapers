@@ -20,6 +20,7 @@ Here are the image credits that I'm aware of:
 - [023.jpg](023.jpg): [Mojave Desert]()
 - [024.jpg](024.jpg): []()
 - [025.jpg](025.jpg): [wallhaven](https://wallhaven.cc/w/z87ppg)
+- [026.jpg](026.jpg): [wallpapercave](https://wallpapercave.com/w/wp4870590)
 
 ## Collage
 
