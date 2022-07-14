@@ -21,6 +21,7 @@ Here are the image credits that I'm aware of:
 - [024.jpg](024.jpg): []()
 - [025.jpg](025.jpg): [wallhaven](https://wallhaven.cc/w/z87ppg)
 - [026.jpg](026.jpg): [wallpapercave](https://wallpapercave.com/w/wp4870590)
+- [027.jpg](027.jpg): [hdwalls](https://hdqwalls.com/wallpaper/3840x2160/cool-monkey-dark-minimal-4k)
 
 ## Collage
 
