@@ -28,6 +28,7 @@ Here are the image credits that I'm aware of:
 - [037.jpg](037.jpg): [getwallpapers](https://getwallpapers.com/wallpaper/full/2/5/4/1488891-science-fiction-wallpaper-sci-fi-1920x1080-for-iphone-5s.jpg)
 - [038.jpg](038.jpg): [getwallpapers](https://getwallpapers.com/wallpaper/full/3/3/e/1488836-most-popular-science-fiction-wallpaper-sci-fi-1920x1080.jpg)
 - [039.jpg](039.jpg): [getwallpapers](https://getwallpapers.com/wallpaper/full/8/5/8/1488862-science-fiction-wallpaper-sci-fi-2560x1600-for-android-50.jpg)
+- [040.jpg](040.jpg): [Artur Sadlos](https://www.artstation.com/artwork/o1yKJ)
 
 ## Collage
 
