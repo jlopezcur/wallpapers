@@ -10,7 +10,7 @@ let me know so I can give the proper attribution.**
 
 Here are the image credits that I'm aware of:
 
-- [011.jpg](011.jpg): Photo by [Daniel Leone](https://unsplash.com/@danielleone?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/wallpaper?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
+- [011.jpg](011.jpg): Photo by [Daniel Leone](https://unsplash.com/@danielleone?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/wallpaper?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 - [012.jpg](012.jpg): Photo by [Anders Jildén](https://unsplash.com/@andersjilden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/wallpaper?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 - [013.jpg](013.jpg): [Mikael Gustafsson](https://www.instagram.com/mklgustafsson/) (Also he has animated gif)
 - [014.jpg](014.jpg): From [GetWallpapers](http://getwallpapers.com/collection/arch-linux-wallpaper)
@@ -30,6 +30,9 @@ Here are the image credits that I'm aware of:
 - [039.jpg](039.jpg): [getwallpapers](https://getwallpapers.com/wallpaper/full/8/5/8/1488862-science-fiction-wallpaper-sci-fi-2560x1600-for-android-50.jpg)
 - [040.jpg](040.jpg): [Artur Sadlos](https://www.artstation.com/artwork/o1yKJ)
 - [041.jpg](041.jpg): [ZoviteMenya_Kira](https://www.artstation.com/artwork/4XwO84)
+- [042.jpg](042.jpg): https://wallpaperaccess.com/hologram-pc
+- [043.jpg](043.jpg): [Wait](https://www.artstation.com/artwork/lVJXXe) by [Aenami](https://www.artstation.com/aenamiart)
+- [044.jpg](044.jpg): [Escape](https://www.artstation.com/artwork/r9lEY2) by [Aenami](https://www.artstation.com/aenamiart)
 
 ## Collage
 
